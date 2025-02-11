@@ -39,7 +39,7 @@
 }
 
 .memory-card {
-    width: 25% ;
+    width: 300px ;
     margin-right: 40px;
     margin-bottom: 40px;
     border: 1px solid red;
@@ -48,9 +48,9 @@
 
 .memory-card .image { 
     height: 300px;
-    width: 300px;
+    width: 100;
     background: url(/assets/imgs/bg1.png);
-    background-size: 100% 100%;
+    background-size: cover;
 
     
 }
