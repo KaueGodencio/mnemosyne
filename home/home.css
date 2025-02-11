@@ -26,11 +26,14 @@
 }
 
 .links a {
-
-    font-size: 30px;
+    font-size: 26px;
     text-decoration: none; /* Tira o traço de baixo da fonte */
-    color: #464646;
-    
-    padding-left: 35px;
+    color: #464646;    
+    padding-left: 25px;
+
+}
+
+.app-main{
+    padding: 80px;
 
 }
